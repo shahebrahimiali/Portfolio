@@ -142,7 +142,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Shaheb Rahimiali - shaheb@example.com
+Shahebrahimiali - ali.sh.creative@gmail.com
 
 Project Link: [https://github.com/shahebrahimiali/Portfolio](https://github.com/shahebrahimiali/Portfolio)
 
